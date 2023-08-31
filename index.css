@@ -1,0 +1,40 @@
+.header{
+    height: 50px;
+    width: auto;
+    border: 1px solid black;
+    color: rgb(9, 248, 69);
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 25px;
+}
+.nav ,.footer{
+    height: 50px;
+    width: auto;
+    border: 1px solid black;
+    color: rgb(9, 248, 69);
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 25px;
+}
+.contand-1, .contand-2, .contand-3{
+    height: 100px;
+    
+    border: 1px solid black;
+    color: rgb(9, 248, 69);
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 25px;
+    
+}
+.main{
+    display: flex;
+}
+.contand-1{
+    width:29% ;
+}
+.contand-2{
+    width:40% ;
+}
+.contand-3{
+    width:29% ;
+}
